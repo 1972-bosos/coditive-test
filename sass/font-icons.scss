@@ -1,0 +1,18 @@
+@font-face {
+	font-family: 'test-font-icons';
+	src:
+	  url('font-icons/test-font-icons.ttf?d7niim') format('truetype'),
+	  url('font-icons/test-font-icons.woff?d7niim') format('woff'),
+	  url('font-icons/test-font-icons.svg?d7niim#test-font-icons') format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: block;
+  }
+
+$iconLocation: "\e947";
+$iconServer: "\e963";
+$iconUser: "\e971";
+$iconCheckmark: "\ea10";
+$iconFacebook: "\ea90";
+$iconTwitter: "\ea92";
+$iconInstagram: "\ea96";

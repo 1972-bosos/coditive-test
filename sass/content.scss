@@ -1,0 +1,8 @@
+#page {
+    .content-container {
+        width: 80%;
+        margin: clamp(50px, 5.208vw, 100px) auto;
+        @import "counter";
+        @import "plan-boxes";
+    }
+}
